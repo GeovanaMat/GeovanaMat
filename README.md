@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Eu sou desenvolvedora Back End, minhas principais linguagens são Java, Python e JavaScript. Atualmente estou criando vários projetos pessoais por aqui.<br><br>- 📚 Eu atualmente estou aprendendo Java e Javascript<br>- ⚡ No meu tempo livre eu jogo videogames</p>
+<p align="left">Eu sou desenvolvedora Back End, minhas principais linguagens são Java, Python e JavaScript. Atualmente estou criando vários projetos pessoais por aqui.<br><br>- 📚 Eu atualmente estou aprendendo  Javascript<br>- ⚡ No meu tempo livre eu jogo videogames</p>
 
 ###
 
